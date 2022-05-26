@@ -472,11 +472,11 @@ interface User {
 }
 ```
 
-![해당 타입의 전체 속성 정보 조회 가능 ](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/574a22c8-ee0c-4c81-9728-ed4f91813153/스크린샷_2022-05-19_오전_2.29.42.png)
+![해당 타입의 전체 속성 정보 조회 가능 ](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F574a22c8-ee0c-4c81-9728-ed4f91813153%2F%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-05-19_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_2.29.42.png?table=block&id=a70a3ad5-d133-443e-9c36-163c7e8e56df&spaceId=d85f0fcf-0f82-4cb5-ae05-11fa22c4b88c&width=880&userId=c357fd81-d904-4359-8ddb-6f501ae4a91b&cache=v2)
 
 해당 타입의 전체 속성 정보 조회 가능
 
-![인터페이스 명만 조회 가능](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/134d8852-1d57-4a09-a812-f29b1ab39139/스크린샷_2022-05-19_오전_2.30.00.png)
+![인터페이스 명만 조회 가능](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F134d8852-1d57-4a09-a812-f29b1ab39139%2F%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-05-19_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_2.30.00.png?table=block&id=f320afba-4485-421c-8e27-b4636b6b53f8&spaceId=d85f0fcf-0f82-4cb5-ae05-11fa22c4b88c&width=960&userId=c357fd81-d904-4359-8ddb-6f501ae4a91b&cache=v2)
 
 인터페이스 명만 조회 가능
 
